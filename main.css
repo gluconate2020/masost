@@ -28,7 +28,9 @@ html, body {
 	margin: 1rem;
 }
 
-
+.email {
+	display: inline-block;
+}
 /*----Media Queries----*/
 @media (max-width: 992px) {
 
